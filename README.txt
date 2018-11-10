@@ -25,5 +25,7 @@ Storage & databases
 Machine learning
 Internet of things
 
--> cloud speech API
+-> Cloud Speech API
 allows you to change from verbal words to text
+
+-> Cloud AutoML Vision
